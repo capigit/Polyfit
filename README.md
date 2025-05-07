@@ -24,5 +24,5 @@ Ce projet présente une implémentation simple d’une **régression linéaire**
 
 
 ```bash
-git clone https://github.com/votre-utilisateur/Polyfit.git
+git clone https://github.com/capigit/Polyfit.git
 cd Polyfit
