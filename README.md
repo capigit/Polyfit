@@ -22,10 +22,7 @@ Ce projet présente une implémentation simple d’une **régression linéaire**
 - Affichage du nuage de points + droite de régression.
 - Calcul du coefficient de corrélation (optionnel).
 
-## ▶️ Lancer le notebook
-
-Pour exécuter ce projet localement :
 
 ```bash
-git clone https://github.com/votre-utilisateur/nom-du-repo.git
-cd nom-du-repo
+git clone https://github.com/votre-utilisateur/Polyfit.git
+cd Polyfit
